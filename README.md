@@ -1,6 +1,6 @@
 # Arduino sharp tester
 
-I build sharp tester based on arduino. It measure pressure on cut the nylon.
+I made sharp tester based on arduino. It measure pressure on cut the nylon.
 
 Used materials:<br />
 Arduino board: wemos d1 mini<br />
